@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Wifix",
+  "short_name": "Wifix",
+  "version": "com.wifix.tapandgo",
+  "description": "Tag and go!",
+  "author": "Wifix",
+  "icons": [],
+  "start_url": "index.html"
+}
